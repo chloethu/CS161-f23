@@ -1,0 +1,1666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="4318.9717"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2660.782471 -1343.330200 4318.971680 3506.254395"
+     height="3506.2544" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Joseph_Wyeth id_Thomas_Ellwood"
+              d="M 462.608978,33.069157 A 88.311402,88.311402 0,0 1,544.445496,22.057808"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Alexander_Skene_of_Newtyle id_Lilias_Skene"
+              d="M -1484.210449,1692.374634 A 40.085540,40.085540 0,0 1,-1512.601685,1704.135620"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Logan id_Peter_Collinson"
+              d="M -512.682312,-747.625854 A 156.895034,156.895034 0,0 1,-631.767639,-866.301025"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Logan id_John_Bartram"
+              d="M -512.780090,-743.313782 A 156.145102,156.145102 0,0 1,-660.733582,-821.238220"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Logan id_William_Penn"
+              d="M -483.916351,-745.379150 A 445.971967,445.971967 0,0 1,-78.281456,-484.658997"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Logan id_David_Lloyd"
+              d="M -483.941925,-744.253296 A 138.588798,138.588798 0,0 1,-369.347504,-653.653137"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dorcas_Erbery id_James_Nayler"
+              d="M 690.935669,589.817322 A 144.947262,144.947262 0,0 1,692.962524,447.224060"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Mucklow id_George_Fox"
+              d="M 919.640625,65.772362 A 139.300252,139.300252 0,0 1,813.628662,18.913347"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Salthouse id_George_Fox"
+              d="M 605.482300,140.366928 A 210.977864,210.977864 0,0 1,739.716309,-12.104460"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Salthouse id_Margaret_Fell"
+              d="M 596.216125,156.988968 A 178.635806,178.635806 0,0 1,418.592041,191.268616"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Dewsbury id_Edward_Burrough"
+              d="M 1071.488281,145.608765 A 112.471958,112.471958 0,0 1,1000.688171,237.830704"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Dewsbury id_George_Fox"
+              d="M 1062.224976,136.780365 A 271.412495,271.412495 0,0 1,811.989563,19.868944"
+              stroke="#a9a47f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Dewsbury id_John_Crook"
+              d="M 1080.201538,141.573639 A 82.195584,82.195584 0,0 1,1108.443237,218.461746"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Audland id_John_Camm"
+              d="M 1392.923584,-78.211998 A 167.509759,167.509759 0,0 1,1530.183105,-192.444778"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Audland id_Francis_Howgill"
+              d="M 1387.349365,-44.954613 A 440.455864,440.455864 0,0 1,1063.126099,341.886169"
+              stroke="#39be4a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Audland id_Edward_Pyott"
+              d="M 1399.983521,-74.316330 A 169.842294,169.842294 0,0 1,1577.540161,-112.576698"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Audland id_Charles_Marshall"
+              d="M 1379.128662,-75.968246 A 127.398778,127.398778 0,0 1,1381.332153,-206.246857"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Audland id_George_Fox"
+              d="M 1375.444580,-51.064411 A 501.534251,501.534251 0,0 1,830.579041,1.674379"
+              stroke="#6fa3c9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Audland id_Anne_Camm"
+              d="M 1386.001343,-78.612831 A 171.744836,171.744836 0,0 1,1468.540771,-242.840347"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Richard_Claridge id_Joseph_Besse"
+              d="M -537.618225,-498.384186 A 221.351564,221.351564 0,0 1,-778.906982,-532.850220"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Richard_Claridge id_William_Penn"
+              d="M -511.884003,-511.713867 A 391.186254,391.186254 0,0 1,-97.599380,-471.150146"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Bradford id_George_Keith"
+              d="M 12.131630,-721.799683 A 315.022647,315.022647 0,0 1,364.700714,-675.640320"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Bradford id_William_Penn"
+              d="M 7.118750,-707.762878 A 238.402522,238.402522 0,0 1,-25.594254,-474.274506"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Bradford id_Tace_Sowle"
+              d="M -6.409822,-713.893860 A 141.802515,141.802515 0,0 1,-152.255112,-755.780762"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Fettiplace_Bellers id_John_Bellers"
+              d="M -2123.764648,-659.057556 A 40.130531,40.130531 0,0 1,-2124.574951,-689.833069"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Isabel_Yeamans id_William_Penn"
+              d="M -174.314514,-574.070923 A 154.740264,154.740264 0,0 1,-72.450478,-486.533234"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox_the_younger id_Margaret_Fell"
+              d="M 243.381851,278.218964 A 155.113290,155.113290 0,0 1,361.010956,181.194061"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_George_Keith"
+              d="M 742.256592,-42.435059 A 633.795802,633.795802 0,0 1,376.372345,-646.143188"
+              stroke="#95679e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_Francis_Howgill"
+              d="M 833.976624,-5.335759 A 377.212586,377.212586 0,0 1,1051.143311,332.505402"
+              stroke="#a9a47f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_Ellis_Hookes"
+              d="M 804.724121,-69.864090 A 147.325434,147.325434 0,0 1,907.477600,-142.320770"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_William_Mead"
+              d="M 771.749939,23.423033 A 258.039795,258.039795 0,0 1,559.226318,173.296600"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_Elizabeth_Hooten"
+              d="M 835.529419,-36.707539 A 149.745338,149.745338 0,0 1,957.000305,5.786853"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_Margaret_Fell"
+              d="M 763.194946,19.524176 A 371.112097,371.112097 0,0 1,421.014038,182.789566"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_John_Crook"
+              d="M 837.128906,-18.469501 A 338.061052,338.061052 0,0 1,1103.445435,218.568253"
+              stroke="#a9a47f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_George_Whitehead"
+              d="M 747.408203,-51.771309 A 249.306605,249.306605 0,0 1,662.263062,-266.552979"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_Benjamin_Furly"
+              d="M 739.755798,-34.745392 A 611.599504,611.599504 0,0 1,297.905396,-547.137756"
+              stroke="#95679e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_James_Nayler"
+              d="M 807.342163,22.150129 A 379.336507,379.336507 0,0 1,728.269897,405.512024"
+              stroke="#a9a47f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_Edward_Burrough"
+              d="M 834.052795,-5.531911 A 277.157862,277.157862 0,0 1,988.411133,229.193329"
+              stroke="#a9a47f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_John_Wilkinson"
+              d="M 792.997192,-72.550262 A 314.381523,314.381523 0,0 1,1008.681641,-315.787537"
+              stroke="#6fa3c9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_Thomas_Ellwood"
+              d="M 751.548767,10.221363 A 194.718722,194.718722 0,0 1,576.868164,36.182182"
+              stroke="#ef8882" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_William_Coddington"
+              d="M 822.026062,-59.156315 A 136.308983,136.308983 0,0 1,931.967346,-81.749710"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_John_Stubbs"
+              d="M 739.224182,-14.475420 A 532.937804,532.937804 0,0 1,210.172607,-270.130402"
+              stroke="#95679e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_John_Perrot"
+              d="M 831.470093,0.087847 A 467.101981,467.101981 0,0 1,1052.243774,457.460724"
+              stroke="#a9a47f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_Leonard_Fell"
+              d="M 816.440979,-63.748638 A 181.696033,181.696033 0,0 1,974.474487,-119.615173"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Fox id_William_Penn"
+              d="M 739.033142,-15.597260 A 786.650766,786.650766 0,0 1,-35.938923,-394.305969"
+              stroke="#6fa6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Stubbs id_Benjamin_Furly"
+              d="M 198.967484,-295.717773 A 250.029033,250.029033 0,0 1,279.249847,-555.102173"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Stubbs id_William_Caton"
+              d="M 199.038513,-295.739685 A 90.942303,90.942303 0,0 1,222.425827,-378.741272"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Stubbs id_Samuel_Fisher"
+              d="M 193.822098,-271.786774 A 93.865830,93.865830 0,0 1,104.305023,-248.444046"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Stubbs id_John_Burnyeat"
+              d="M 193.070480,-272.504730 A 356.781704,356.781704 0,0 1,-207.156662,-212.593307"
+              stroke="#a56721" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anne_Camm id_Thomas_Camm"
+              d="M 1467.268311,-247.122299 A 104.493595,104.493595 0,0 1,1373.737915,-301.359467"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Camm id_Charles_Marshall"
+              d="M 1531.227905,-188.859726 A 129.024869,129.024869 0,0 1,1394.606323,-207.816788"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Camm id_Thomas_Camm"
+              d="M 1530.131348,-193.354446 A 173.137213,173.137213 0,0 1,1372.820679,-300.967651"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Camm id_Edward_Pyott"
+              d="M 1549.507935,-188.641373 A 80.428152,80.428152 0,0 1,1587.619019,-118.822960"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Camm id_John_Story"
+              d="M 1360.768188,-304.257599 A 412.207880,412.207880 0,0 1,887.500977,-278.075470"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Katharine_Evans id_Sarah_Cheevers"
+              d="M -1977.395508,1216.853394 A 40.078254,40.078254 0,0 1,-1994.232422,1191.156128"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lydia_Lancaster id_Grace_Chamber"
+              d="M -1913.792847,820.194336 A 40.075415,40.075415 0,0 1,-1883.086304,819.345642"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Samuel_Clarridge id_Anthony_Sharp"
+              d="M -434.105469,-111.220726 A 168.937219,168.937219 0,0 1,-275.646820,-14.677011"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Samuel_Clarridge id_James_Claypoole"
+              d="M -446.406250,-120.616180 A 153.725631,153.725631 0,0 1,-381.337402,-273.452637"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Lower id_Margaret_Fell"
+              d="M 286.857666,323.181000 A 155.125497,155.125497 0,0 1,363.684845,191.452011"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gervase_Benson id_James_Nayler"
+              d="M 589.197021,632.685303 A 206.536755,206.536755 0,0 1,684.838928,437.985046"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gervase_Benson id_Anthony_Pearson"
+              d="M 581.289307,638.488037 A 75.449368,75.449368 0,0 1,541.761536,578.849548"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Stephen_Crisp id_James_Parnel"
+              d="M 178.022949,-660.731689 A 76.575988,76.575988 0,0 1,184.980194,-735.494446"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Stephen_Crisp id_William_Caton"
+              d="M 189.980560,-644.862366 A 224.108547,224.108547 0,0 1,237.664154,-399.423737"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Stephen_Crisp id_Benjamin_Furly"
+              d="M 192.774567,-651.432251 A 117.354096,117.354096 0,0 1,288.071747,-586.973083"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Claypoole id_William_Penn"
+              d="M -365.528839,-290.592468 A 290.773151,290.773151 0,0 1,-109.906204,-442.416687"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Holme id_William_Gibson"
+              d="M -91.535477,778.339966 A 94.479226,94.479226 0,0 1,-153.616516,849.988281"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Holme id_Elizabeth_Leavens"
+              d="M -89.243126,753.919006 A 229.041612,229.041612 0,0 1,68.968323,556.513794"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Freame id_David_Barclay"
+              d="M -769.377930,2128.874756 A 40.126882,40.126882 0,0 1,-741.137695,2141.122314"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Swinton id_David_Barclay_of_Ury"
+              d="M 252.327576,-1322.294189 A 94.834979,94.834979 0,0 1,269.643646,-1228.649414"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Mead id_Margaret_Fell"
+              d="M 541.205750,179.905807 A 131.855705,131.855705 0,0 1,417.608765,193.246002"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Henry_Pickworth id_Francis_Bugg"
+              d="M 869.872986,-762.088562 A 124.572584,124.572584 0,0 1,817.520020,-641.904358"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Crook id_John_Perrot"
+              d="M 1109.998535,237.483170 A 208.458523,208.458523 0,0 1,1061.076172,462.141663"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Crook id_Edward_Burrough"
+              d="M 1098.529053,234.738495 A 98.475007,98.475007 0,0 1,999.980530,247.375977"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gilbert_Latey id_Edward_Burrough"
+              d="M 998.214539,-33.474304 A 236.269980,236.269980 0,0 1,996.154053,231.598358"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gilbert_Latey id_George_Whitehead"
+              d="M 982.347595,-42.130684 A 344.479509,344.479509 0,0 1,676.780151,-267.568146"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Joseph_Besse id_Samuel_Bownas"
+              d="M -798.872070,-535.821716 A 90.905974,90.905974 0,0 1,-888.579102,-547.671021"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_Francis_Howgill"
+              d="M 727.531250,404.805725 A 292.777876,292.777876 0,0 1,1039.559692,340.192169"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_Martha_Simmonds"
+              d="M 736.300537,426.929718 A 224.727495,224.727495 0,0 1,920.033020,579.437988"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_Hannah_Stranger"
+              d="M 733.716187,436.734650 A 220.205909,220.205909 0,0 1,846.886475,640.846375"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_Margaret_Fell"
+              d="M 681.593567,423.423584 A 335.017687,335.017687 0,0 1,400.401825,207.537262"
+              stroke="#a9a47f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_Richard_Farnworth"
+              d="M 734.093201,414.026764 A 99.610503,99.610503 0,0 1,819.326416,429.282043"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_George_Whitehead"
+              d="M 691.762817,403.622467 A 602.780789,602.780789 0,0 1,650.913086,-270.870361"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_John_Perrot"
+              d="M 733.537842,412.830444 A 287.040394,287.040394 0,0 1,1039.460449,461.947144"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_Robert_Rich"
+              d="M 726.106995,446.351837 A 244.828583,244.828583 0,0 1,739.976379,709.011292"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_Anthony_Pearson"
+              d="M 700.835144,451.145020 A 182.513471,182.513471 0,0 1,554.144226,565.155579"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_Thomas_Ellwood"
+              d="M 686.439819,409.341309 A 351.815629,351.815629 0,0 1,555.831360,46.915401"
+              stroke="#b9a402" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_Edward_Burrough"
+              d="M 719.551758,399.685028 A 278.707849,278.707849 0,0 1,976.211548,241.227814"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_Rebecca_Travers"
+              d="M 683.289490,415.357697 A 531.547830,531.547830 0,0 1,351.006683,-90.296486"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_James_Nayler id_William_Tomlinson"
+              d="M 721.856262,449.154022 A 248.873688,248.873688 0,0 1,686.175415,714.660095"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Whitehead id_George_Keith"
+              d="M 637.727722,-306.285126 A 389.423151,389.423151 0,0 1,378.262390,-646.132690"
+              stroke="#a54d61" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Whitehead id_William_Rogers"
+              d="M 666.472473,-266.136871 A 139.705741,139.705741 0,0 1,587.305237,-159.301666"
+              stroke="#ff6e44" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Whitehead id_Francis_Bugg"
+              d="M 661.218079,-327.605530 A 304.961943,304.961943 0,0 1,796.679688,-628.948608"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Whitehead id_Richard_Hubberthorne"
+              d="M 689.870667,-275.726135 A 391.511037,391.511037 0,0 1,766.980957,153.641830"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Whitehead id_Alexander_Parker"
+              d="M 637.509644,-305.541260 A 121.847491,121.847491 0,0 1,567.723389,-384.744354"
+              stroke="#ef6fc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Whitehead id_John_Whitehead"
+              d="M 663.128662,-327.932922 A 139.792500,139.792500 0,0 1,723.345093,-446.702301"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Whitehead id_Daniel_Quare"
+              d="M 669.693420,-328.146606 A 315.690346,315.690346 0,0 1,890.187744,-591.268555"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Whitehead id_William_Penn"
+              d="M 639.150574,-284.314575 A 617.525102,617.525102 0,0 1,-25.055841,-402.414612"
+              stroke="#7f8cc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Whitehead id_John_Story"
+              d="M 694.657593,-312.083344 A 173.277937,173.277937 0,0 1,863.282898,-295.165192"
+              stroke="#7f898c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Whitehead id_Rebecca_Travers"
+              d="M 654.549622,-268.913239 A 308.898354,308.898354 0,0 1,364.461609,-102.366837"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Crouch id_Francis_Howgill"
+              d="M 1161.949829,365.536530 A 100.776172,100.776172 0,0 1,1060.456299,353.120392"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Crouch id_Edward_Burrough"
+              d="M 1160.916992,361.456268 A 181.476815,181.476815 0,0 1,993.436462,253.397186"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Benjamin_Furly id_George_Keith"
+              d="M 298.984039,-588.146912 A 105.012635,105.012635 0,0 1,360.720093,-658.361511"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Benjamin_Furly id_James_Parnel"
+              d="M 277.036957,-576.746521 A 170.281340,170.281340 0,0 1,190.420090,-733.359375"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Benjamin_Furly id_Franciscus_Mercurius_van_Helmont"
+              d="M 286.596741,-586.324219 A 162.166055,162.166055 0,0 1,313.438904,-753.373169"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Benjamin_Furly id_Robert_Barclay"
+              d="M 284.167786,-584.930115 A 303.612176,303.612176 0,0 1,294.532990,-920.351807"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Benjamin_Furly id_Alexander_Parker"
+              d="M 316.337830,-568.720093 A 263.551269,263.551269 0,0 1,557.876038,-416.052612"
+              stroke="#95679e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Benjamin_Furly id_William_Caton"
+              d="M 300.580963,-547.608704 A 159.224644,159.224644 0,0 1,242.807251,-395.222046"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Benjamin_Furly id_William_Penn"
+              d="M 283.793030,-550.757080 A 315.532239,315.532239 0,0 1,-11.242868,-427.428528"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Silvanus_Bevan id_Daniel_Quare"
+              d="M 989.721863,-704.815735 A 124.131745,124.131745 0,0 1,913.531616,-598.791260"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Robert_Rich id_William_Tomlinson"
+              d="M 726.725525,723.403259 A 46.250376,46.250376 0,0 1,688.557495,726.542664"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Whiting id_Christopher_Taylor"
+              d="M -2537.428467,-141.065674 A 50.462400,50.462400 0,0 1,-2561.615234,-177.128616"
+              stroke="#d3b3b0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Christopher_Taylor id_Thomas_Taylor"
+              d="M -2560.008057,-196.949310 A 50.547496,50.547496 0,0 1,-2530.250977,-228.715271"
+              stroke="#d3b3b0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Lawson id_Margaret_Fell"
+              d="M 451.239197,-126.933586 A 266.398254,266.398254 0,0 1,411.936920,157.002197"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Lawson id_Alexander_Parker"
+              d="M 444.855072,-145.730698 A 241.505499,241.505499 0,0 1,550.233948,-392.346466"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Richard_Farnworth id_Francis_Howgill"
+              d="M 833.921692,426.912903 A 200.900909,200.900909 0,0 1,1038.923950,342.189270"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Richard_Farnworth id_Richard_Hubberthorne"
+              d="M 819.573792,428.988281 A 234.249614,234.249614 0,0 1,758.973022,172.215393"
+              stroke="#b98a42" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Richard_Farnworth id_John_Perrot"
+              d="M 837.946472,431.415558 A 187.565262,187.565262 0,0 1,1039.549316,461.853516"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Richard_Farnworth id_Margaret_Fell"
+              d="M 816.888062,437.382111 A 422.570352,422.570352 0,0 1,403.689484,206.254715"
+              stroke="#a9a47f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Richard_Farnworth id_Anthony_Pearson"
+              d="M 822.408142,445.934296 A 262.028696,262.028696 0,0 1,553.964172,568.720337"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Richard_Vickris id_George_Bishop"
+              d="M -1603.217041,1325.537476 A 40.089475,40.089475 0,0 1,-1622.668213,1349.335205"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Robert_Barclay id_George_Keith"
+              d="M 314.378510,-922.763062 A 232.028774,232.028774 0,0 1,383.184143,-680.136353"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Robert_Barclay id_David_Barclay_of_Ury"
+              d="M 293.343658,-942.603882 A 239.989640,239.989640 0,0 1,259.065460,-1206.526978"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jane_Sowle id_Tace_Sowle"
+              d="M -232.274475,-879.540649 A 119.426405,119.426405 0,0 1,-160.171097,-777.564270"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Tace_Sowle id_William_Penn"
+              d="M -150.252258,-757.846252 A 285.103520,285.103520 0,0 1,-47.271053,-486.411743"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Margaret_Fell id_William_Caton"
+              d="M 367.717194,159.746704 A 490.157502,490.157502 0,0 1,227.623596,-375.195251"
+              stroke="#95679e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Margaret_Fell id_William_Penn"
+              d="M 362.445587,169.349884 A 636.916987,636.916987 0,0 1,-58.732925,-388.102570"
+              stroke="#6fa6ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Margaret_Fell id_Alexander_Parker"
+              d="M 381.512665,150.213028 A 504.204946,504.204946 0,0 1,551.247009,-390.861572"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Margaret_Fell id_Elizabeth_Leavens"
+              d="M 388.579132,208.902481 A 403.661381,403.661381 0,0 1,96.921112,548.866699"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Margaret_Fell id_Anthony_Pearson"
+              d="M 415.999603,195.875595 A 346.422207,346.422207 0,0 1,544.819763,554.178589"
+              stroke="#a9a47f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Curtis id_Anthony_Sharp"
+              d="M 188.886520,-0.116750 A 393.269561,393.269561 0,0 1,-262.654877,1.397122"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Curtis id_Mary_Penington"
+              d="M 186.096420,-8.072156 A 114.994617,114.994617 0,0 1,88.218391,-66.881035"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Curtis id_Thomas_Ellwood"
+              d="M 213.133408,-15.764988 A 301.558673,301.558673 0,0 1,547.060242,18.126295"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Curtis id_William_Simpson"
+              d="M 195.828629,4.995548 A 136.637339,136.637339 0,0 1,79.830742,89.920959"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Curtis id_John_Story"
+              d="M 208.081268,-21.001911 A 607.799658,607.799658 0,0 1,860.653320,-289.685181"
+              stroke="#7fa24c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Alice_Curwen id_Rebecca_Travers"
+              d="M 264.171783,-107.205055 A 79.652840,79.652840 0,0 1,340.339661,-110.035126"
+              stroke="#ff5584" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Alexander_Parker id_John_Wilkinson"
+              d="M 579.217712,-407.997406 A 387.022283,387.022283 0,0 1,1012.250732,-329.159485"
+              stroke="#6fa3c9" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Alexander_Parker id_Sir_Charles_Wager"
+              d="M 558.961853,-416.470795 A 303.298608,303.298608 0,0 1,656.647827,-742.707764"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Wilkinson id_Charles_Marshall"
+              d="M 1034.227661,-324.023315 A 316.831958,316.831958 0,0 1,1380.750000,-222.786789"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Wilkinson id_Solomon_Eccles"
+              d="M 1017.797119,-332.388306 A 79.009193,79.009193 0,0 1,1039.576050,-404.237946"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Wilkinson id_John_Story"
+              d="M 1012.361816,-309.746826 A 125.230733,125.230733 0,0 1,888.935364,-280.914581"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Thomas_Aldam id_Anthony_Pearson"
+              d="M 460.541016,712.633301 A 146.171081,146.171081 0,0 1,530.645630,572.303223"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sir_Charles_Wager id_Lewis_Morris"
+              d="M 662.382751,-761.887512 A 121.304164,121.304164 0,0 1,697.047668,-884.225769"
+              stroke="#df89ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Keith id_Anne_Conway_Viscountess_Conway_and_Killultagh"
+              d="M 370.789795,-679.812317 A 140.458381,140.458381 0,0 1,402.553894,-822.074951"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Keith id_Franciscus_Mercurius_van_Helmont"
+              d="M 361.957397,-671.820923 A 93.967002,93.967002 0,0 1,319.596069,-750.781616"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_George_Keith id_William_Penn"
+              d="M 369.447021,-648.031067 A 410.180877,410.180877 0,0 1,-10.377862,-432.766327"
+              stroke="#26859e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Peter_Collinson id_John_Bartram"
+              d="M -634.332825,-866.144409 A 46.627799,46.627799 0,0 1,-656.344116,-834.242249"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Caton id_William_Ames"
+              d="M 219.389145,-390.313538 A 83.551664,83.551664 0,0 1,163.082428,-448.330505"
+              stroke="#4c463e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Francis_Howgill id_Martha_Simmonds"
+              d="M 1052.713989,357.291626 A 229.730419,229.730419 0,0 1,931.948547,584.541626"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Francis_Howgill id_Edward_Burrough"
+              d="M 1039.831787,339.581787 A 100.463437,100.463437 0,0 1,988.282227,254.292572"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Rogers id_Thomas_Ellwood"
+              d="M 582.989380,-146.576599 A 155.004432,155.004432 0,0 1,571.506348,16.059263"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Isaac_Norris id_William_Penn"
+              d="M -216.018372,-532.603882 A 158.691896,158.691896 0,0 1,-87.161926,-480.123810"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anthony_Sharp id_William_Edmundson"
+              d="M -282.042419,-5.848114 A 82.838672,82.838672 0,0 1,-345.873108,-56.815586"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mary_Fisher id_John_Perrot"
+              d="M 1178.094482,677.455139 A 208.389096,208.389096 0,0 1,1049.777466,486.741730"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mary_Fisher id_Mary_Prince"
+              d="M 1190.347046,671.513672 A 47.124517,47.124517 0,0 1,1219.519287,645.080750"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sarah_Gibbons id_Dorothy_Waugh"
+              d="M -2082.855957,132.109482 A 40.113947,40.113947 0,0 1,-2084.151855,162.847961"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Humphrey_Norton id_John_Rous"
+              d="M -2171.551514,561.417542 A 40.091907,40.091907 0,0 1,-2189.426270,586.424683"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gideon_Wanton id_John_Wanton"
+              d="M -1144.571289,1884.449951 A 40.068148,40.068148 0,0 1,-1152.037964,1914.237793"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mary_Prince id_John_Perrot"
+              d="M 1219.424194,641.678162 A 206.421831,206.421831 0,0 1,1053.110596,486.452118"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Edward_Haistwell id_William_Penn"
+              d="M -245.789627,-485.461060 A 166.444950,166.444950 0,0 1,-97.931099,-470.770050"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_ap_John id_John_Burnyeat"
+              d="M -354.416351,-194.076965 A 120.470576,120.470576 0,0 1,-234.252869,-224.516998"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Solomon_Eccles id_John_Story"
+              d="M 1043.880981,-401.351776 A 177.060502,177.060502 0,0 1,889.883301,-286.522278"
+              stroke="#00bd94" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Burnyeat id_William_Edmundson"
+              d="M -221.852875,-204.626053 A 166.426983,166.426983 0,0 1,-339.030090,-69.419624"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Burnyeat id_William_Penn"
+              d="M -220.021378,-234.203735 A 225.942196,225.942196 0,0 1,-106.033112,-418.345184"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Edward_Burrough id_John_Perrot"
+              d="M 998.375183,249.817474 A 198.613642,198.613642 0,0 1,1055.166382,458.186188"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Edward_Burrough id_Thomas_Ellwood"
+              d="M 976.378357,243.848602 A 398.298629,398.298629 0,0 1,568.689148,45.420776"
+              stroke="#b9a402" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Rebecca_Travers id_William_Penn"
+              d="M 338.482849,-104.007317 A 442.115257,442.115257 0,0 1,-45.270306,-390.332092"
+              stroke="#7f8cc1" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Penington id_Mary_Penington"
+              d="M -45.064114,-13.400231 A 126.224169,126.224169 0,0 1,68.122887,-80.488998"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mary_Penington id_William_Penn"
+              d="M 70.320091,-87.115417 A 321.445961,321.445961 0,0 1,-69.441162,-388.965454"
+              stroke="#7fa682" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mary_Penington id_Thomas_Ellwood"
+              d="M 95.042679,-85.009712 A 408.809595,408.809595 0,0 1,548.632324,16.548668"
+              stroke="#ff8805" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Humphrey_Woolrich id_Mary_Pennyman"
+              d="M -1964.605957,-1228.359131 A 40.172826,40.172826 0,0 1,-1950.137207,-1255.592529"
+              stroke="#c0c0c0" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Penn id_Thomas_Story"
+              d="M -102.295448,-411.268738 A 153.802243,153.802243 0,0 1,-235.325241,-417.250031"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_William_Penn id_David_Lloyd"
+              d="M -110.071480,-439.593689 A 307.557717,307.557717 0,0 1,-362.850616,-634.742126"
+              stroke="#00c4ff" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Martha_Simmonds id_Hannah_Stranger"
+              d="M 919.880005,598.634705 A 82.141917,82.141917 0,0 1,856.092896,649.874634"
+              stroke="#73c000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_John_Story id_Thomas_Ellwood"
+              d="M 872.695313,-271.502075 A 371.613831,371.613831 0,0 1,577.808533,26.851385"
+              stroke="#7fa24c" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="454.81366"
+                class="id_Joseph_Wyeth" cy="39.33277" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1478.0823"
+                class="id_Alexander_Skene_of_Newtyle" cy="1684.4724"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="13.331631" cx="-498.40536"
+                class="id_James_Logan" cy="-745.145" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="2.3185444"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="696.0306"
+                class="id_Dorcas_Erbery" cy="598.42206" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1522.5228"
+                class="id_Lilias_Skene" cy="1702.8817" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="929.6287"
+                class="id_William_Mucklow" cy="65.28473" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="603.5359"
+                class="id_Thomas_Salthouse" cy="150.17567" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="1072.1587"
+                class="id_William_Dewsbury" cy="135.63126" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="15.586382" cx="1388.5038"
+                class="id_John_Audland" cy="-61.856953" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="2.710675"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="13.331631" cx="-524.7243"
+                class="id_Richard_Claridge" cy="-504.99725" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="2.3185444"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.30366" cx="3.187732"
+                class="id_William_Bradford" cy="-717.08026" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.6180279"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-2118.5813"
+                class="id_Fettiplace_Bellers" cy="-650.5058" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-2119.8489"
+                class="id_John_Bellers" cy="-698.64575" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.2" cx="-184.0542"
+                class="id_Isabel_Yeamans" cy="-576.33777" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="240.09393"
+                class="id_George_Fox_the_younger" cy="287.663" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="45.51515" cx="787.89636"
+                class="id_George_Fox" cy="-23.340935" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="7.915678"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="12.928629" cx="203.14636"
+                class="id_John_Stubbs" cy="-282.30063" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="2.2484572"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.3297615" cx="1477.3867"
+                class="id_Anne_Camm" cy="-247.7991" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.622567"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.470444" cx="1540.4244"
+                class="id_John_Camm" cy="-193.48456" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.6470337"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.842116" cx="1369.0814"
+                class="id_Thomas_Camm" cy="-310.99084" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.7116723"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1968.4905"
+                class="id_Katharine_Evans" cy="1221.4032" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1922.3387"
+                class="id_Lydia_Lancaster" cy="825.38745" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.444555" cx="-444.3499"
+                class="id_Samuel_Clarridge" cy="-110.55842" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6425313"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="287.0385"
+                class="id_Thomas_Lower" cy="333.17935" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="590.399"
+                class="id_Gervase_Benson" cy="642.6128" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.259049" cx="182.71825"
+                class="id_Stephen_Crisp" cy="-651.8299" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.6102694"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="11.121642" cx="-371.08356"
+                class="id_James_Claypoole" cy="-279.8555" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.9341986"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="11.288029" cx="-90.02497"
+                class="id_Thomas_Holme" cy="766.1637" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.9631354"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-779.3182"
+                class="id_John_Freame" cy="2129.9663" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="245.42667"
+                class="id_John_Swinton" cy="-1329.5314" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="549.2486"
+                class="id_William_Mead" cy="173.96333" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="868.04913"
+                class="id_Henry_Pickworth" cy="-771.92084" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.22499" cx="1106.1512"
+                class="id_John_Crook" cy="228.22343" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.6043459"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.289063" cx="992.43744"
+                class="id_Gilbert_Latey" cy="-41.75503" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.6154894"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="917.3806"
+                class="id_Ellis_Hookes" cy="-143.71002" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="11.288029" cx="-787.86237"
+                class="id_Joseph_Besse" cy="-541.23737" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.9631354"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="25.217602" cx="708.9605"
+                class="id_James_Nayler" cy="424.96658" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="4.3856697"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="963.8657"
+                class="id_Elizabeth_Hooten" cy="13.057763" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="28.569542" cx="667.41565"
+                class="id_George_Whitehead" cy="-297.1764" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="4.968616"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="731.7675"
+                class="id_John_Whitehead" cy="-452.09326" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="1170.9105"
+                class="id_William_Crouch" cy="361.09732" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="19.04365" cx="295.6626"
+                class="id_Benjamin_Furly" cy="-567.7155" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="3.311939"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="990.0123"
+                class="id_Silvanus_Bevan" cy="-714.8115" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="734.88025"
+                class="id_Robert_Rich" cy="717.6153" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="9.2" cx="-2528.364"
+                class="id_John_Whiting" cy="-136.84244" stroke="#937d7b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="9.222213" cx="-2562.0813"
+                class="id_Christopher_Taylor" cy="-187.14192" stroke="#937d7b"
+                stroke-opacity="1.0" stroke-width="1.603863"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="446.896"
+                class="id_Thomas_Lawson" cy="-135.94118" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.230387" cx="827.95496"
+                class="id_Richard_Farnworth" cy="436.2965" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.7791977"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="941.6355"
+                class="id_William_Coddington" cy="-79.19501" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="9.2" cx="-2520.6235"
+                class="id_Thomas_Taylor" cy="-231.41974" stroke="#937d7b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1601.5569"
+                class="id_Richard_Vickris" cy="1315.6763" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="13.331631" cx="303.19034"
+                class="id_Robert_Barclay" cy="-931.97235" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="2.3185444"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.2" cx="-241.62198"
+                class="id_Jane_Sowle" cy="-883.0937" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="11.288029" cx="-160.00146"
+                class="id_Tace_Sowle" cy="-765.29584" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.9631354"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="984.33514"
+                class="id_Leonard_Fell" cy="-117.951584" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="27.764168" cx="391.0966"
+                class="id_Margaret_Fell" cy="178.82922" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="4.828551"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1632.002"
+                class="id_George_Bishop" cy="1352.9243" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="13.331631" cx="82.901054"
+                class="id_Elizabeth_Leavens" cy="552.53064" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="2.3185444"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="13.298655" cx="200.5391"
+                class="id_Thomas_Curtis" cy="-8.67048" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="2.3128095"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.2" cx="255.91193"
+                class="id_Alice_Curwen" cy="-101.56816" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="15.170439" cx="564.3416"
+                class="id_Alexander_Parker" cy="-400.88345" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="2.6383371"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="12.352776" cx="1021.5833"
+                class="id_John_Wilkinson" cy="-319.50626" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="2.1483088"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="461.90967"
+                class="id_Thomas_Aldam" cy="722.5392" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="11.288029" cx="264.77643"
+                class="id_David_Barclay_of_Ury" cy="-1217.3865" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.9631354"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-735.14154"
+                class="id_David_Barclay" cy="2149.1252" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="11.288029" cx="666.31396"
+                class="id_Sir_Charles_Wager" cy="-750.2648" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.9631354"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="16.101162" cx="377.41476"
+                class="id_George_Keith" cy="-663.6134" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="2.800202"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="191.19421"
+                class="id_James_Parnel" cy="-743.32935" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.2" cx="-633.6544"
+                class="id_Peter_Collinson" cy="-876.1214" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="320.17407"
+                class="id_Franciscus_Mercurius_van_Helmont" cy="-760.7649"
+                stroke="#35312b" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="12.072168" cx="232.20407"
+                class="id_William_Caton" cy="-387.49176" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="2.0995073"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="11.452458" cx="1051.0615"
+                class="id_Francis_Howgill" cy="344.95346" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.9917319"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="9.305803" cx="762.79987"
+                class="id_Richard_Hubberthorne" cy="162.85225" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.6184006"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="161.04143"
+                class="id_William_Ames" cy="-458.12" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.290334" cx="578.0079"
+                class="id_William_Rogers" cy="-155.36055" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6157101"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.2" cx="-225.96986"
+                class="id_Isaac_Norris" cy="-531.62006" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.862716" cx="-271.3689"
+                class="id_Anthony_Sharp" cy="-4.847203" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.7152549"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="1187.4165"
+                class="id_Mary_Fisher" cy="681.07465" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="409.73328"
+                class="id_Anne_Conway_Viscountess_Conway_and_Killultagh"
+                cy="-829.036" stroke="#35312b" stroke-opacity="1.0"
+                stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="9.2" cx="94.7924"
+                class="id_Samuel_Fisher" cy="-251.52788" stroke="#35312b"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.288029" cx="807.1026"
+                class="id_Francis_Bugg" cy="-635.42206" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.9631354"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-2087.4417"
+                class="id_Sarah_Gibbons" cy="123.22295" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="679.5666"
+                class="id_William_Tomlinson" cy="722.165" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-2170.532"
+                class="id_Humphrey_Norton" cy="551.46967" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="-163.23177"
+                class="id_William_Gibson" cy="852.7355" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1147.2655"
+                class="id_Gideon_Wanton" cy="1874.8197" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1158.956"
+                class="id_John_Wanton" cy="1921.4586" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1874.2666"
+                class="id_Grace_Chamber" cy="824.0588" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="1229.322"
+                class="id_Mary_Prince" cy="643.10406" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.2" cx="-665.43054"
+                class="id_John_Bartram" cy="-830.06647" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.2" cx="-255.0246"
+                class="id_Edward_Haistwell" cy="-481.625" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-361.16498"
+                class="id_John_ap_John" cy="-186.69753" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-2198.5085"
+                class="id_John_Rous" cy="590.6093" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="11.535016" cx="541.6596"
+                class="id_Anthony_Pearson" cy="566.3119" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="2.0060897"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="1047.1069"
+                class="id_Solomon_Eccles" cy="-410.81714" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="13.642799" cx="-220.34264"
+                class="id_John_Burnyeat" cy="-219.37808" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="2.3726606"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="11.551983" cx="988.7574"
+                class="id_Edward_Burrough" cy="241.74506" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="2.0090406"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.974518" cx="351.47958"
+                class="id_Rebecca_Travers" cy="-103.30367" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="2.0825248"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.625221" cx="-349.1466"
+                class="id_William_Edmundson" cy="-66.75247" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.6739515"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1994.848"
+                class="id_Sarah_Cheevers" cy="1181.175" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.2" cx="1586.8218"
+                class="id_Edward_Pyott" cy="-108.85479" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="11.288029" cx="901.98285"
+                class="id_Daniel_Quare" cy="-594.64777" stroke="#b23b5c"
+                stroke-opacity="1.0" stroke-width="1.9631354"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="-49.394535"
+                class="id_John_Penington" cy="-4.386495" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="12.912016" cx="82.12446"
+                class="id_Mary_Penington" cy="-79.5238" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="2.2455678"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="9.415361" cx="1387.059"
+                class="id_Charles_Marshall" cy="-214.72865" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="1.637454"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1964.3025"
+                class="id_Humphrey_Woolrich" cy="-1218.3638" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="46.0" cx="-60.094276"
+                class="id_William_Penn" cy="-438.08405" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-1941.6844"
+                class="id_Mary_Pennyman" cy="-1260.9358" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.2" cx="-2089.4692"
+                class="id_Dorothy_Waugh" cy="171.31697" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.2" cx="-366.29114"
+                class="id_David_Lloyd" cy="-644.13165" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="9.2" cx="704.68463"
+                class="id_Lewis_Morris" cy="-890.6815" stroke="#9c5fb2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.253681" cx="922.96234"
+                class="id_Martha_Simmonds" cy="589.0603" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.6093359"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="13.645249" cx="875.05634"
+                class="id_John_Story" cy="-286.14474" stroke="#008467"
+                stroke-opacity="1.0" stroke-width="2.3730867"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.2" cx="-243.97766"
+                class="id_Thomas_Story" cy="-422.26355" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="16.282722" cx="560.3582"
+                class="id_Thomas_Ellwood" cy="29.805513" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="2.8317778"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="9.2" cx="69.8393"
+                class="id_William_Simpson" cy="90.33469" stroke="#b25f03"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="9.2" cx="-896.18036"
+                class="id_Samuel_Bownas" cy="-554.1688" stroke="#0089b2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="13.538767" cx="1050.1785"
+                class="id_John_Perrot" cy="472.03113" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="2.354568"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="9.2" cx="846.1375"
+                class="id_Hannah_Stranger" cy="650.8183" stroke="#508600"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="454.81366" y="44.89039" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Joseph_Wyeth">
+            Joseph Wyeth
+        </text>
+        <text font-size="24" x="-1478.0823" y="1690.1033" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alexander_Skene_of_Newtyle">
+            Alexander Skene of Newtyle
+        </text>
+        <text font-size="35" x="-498.40536" y="-737.04016" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_James_Logan">
+            James Logan
+        </text>
+        <text font-size="24" x="696.0306" y="603.9797" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dorcas_Erbery">
+            Dorcas Erbery
+        </text>
+        <text font-size="24" x="-1522.5228" y="1707.3231" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lilias_Skene">
+            Lilias Skene
+        </text>
+        <text font-size="24" x="929.6287" y="69.64996" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Mucklow">
+            William Mucklow
+        </text>
+        <text font-size="24" x="603.5359" y="154.61708" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Salthouse">
+            Thomas Salthouse
+        </text>
+        <text font-size="24" x="1072.1587" y="141.18887" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Dewsbury">
+            William Dewsbury
+        </text>
+        <text font-size="41" x="1388.5038" y="-54.394672" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Audland">
+            John Audland
+        </text>
+        <text font-size="35" x="-524.7243" y="-496.78558" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Richard_Claridge">
+            Richard Claridge
+        </text>
+        <text font-size="24" x="3.187732" y="-712.6418" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Bradford">
+            William Bradford
+        </text>
+        <text font-size="24" x="-2118.5813" y="-645.0185" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fettiplace_Bellers">
+            Fettiplace Bellers
+        </text>
+        <text font-size="24" x="-2119.8489" y="-694.2776" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Bellers">
+            John Bellers
+        </text>
+        <text font-size="24" x="-184.0542" y="-571.97253" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Isabel_Yeamans">
+            Isabel Yeamans
+        </text>
+        <text font-size="24" x="240.09393" y="293.29385" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_George_Fox_the_younger">
+            George Fox the younger
+        </text>
+        <text font-size="119" x="787.89636" y="4.578743" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_George_Fox">
+            George Fox
+        </text>
+        <text font-size="34" x="203.14636" y="-276.00864" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Stubbs">
+            John Stubbs
+        </text>
+        <text font-size="24" x="1477.3867" y="-243.3577" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anne_Camm">
+            Anne Camm
+        </text>
+        <text font-size="25" x="1540.4244" y="-188.8581" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Camm">
+            John Camm
+        </text>
+        <text font-size="26" x="1369.0814" y="-306.17932" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Camm">
+            Thomas Camm
+        </text>
+        <text font-size="24" x="-1968.4905" y="1225.7684" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Katharine_Evans">
+            Katharine Evans
+        </text>
+        <text font-size="24" x="-1922.3387" y="830.94507" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lydia_Lancaster">
+            Lydia Lancaster
+        </text>
+        <text font-size="25" x="-444.3499" y="-104.69294" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Samuel_Clarridge">
+            Samuel Clarridge
+        </text>
+        <text font-size="24" x="287.0385" y="337.5446" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Lower">
+            Thomas Lower
+        </text>
+        <text font-size="24" x="590.399" y="647.0542" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gervase_Benson">
+            Gervase Benson
+        </text>
+        <text font-size="24" x="182.71825" y="-646.26935" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stephen_Crisp">
+            Stephen Crisp
+        </text>
+        <text font-size="29" x="-371.08356" y="-273.05154" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_James_Claypoole">
+            James Claypoole
+        </text>
+        <text font-size="29" x="-90.02497" y="771.43835" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Holme">
+            Thomas Holme
+        </text>
+        <text font-size="24" x="-779.3182" y="2134.3345" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Freame">
+            John Freame
+        </text>
+        <text font-size="24" x="245.42667" y="-1325.09" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Swinton">
+            John Swinton
+        </text>
+        <text font-size="24" x="549.2486" y="178.32857" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Mead">
+            William Mead
+        </text>
+        <text font-size="24" x="868.04913" y="-766.3632" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Henry_Pickworth">
+            Henry Pickworth
+        </text>
+        <text font-size="24" x="1106.1512" y="232.66484" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Crook">
+            John Crook
+        </text>
+        <text font-size="24" x="992.43744" y="-36.124172" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gilbert_Latey">
+            Gilbert Latey
+        </text>
+        <text font-size="24" x="917.3806" y="-139.34479" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ellis_Hookes">
+            Ellis Hookes
+        </text>
+        <text font-size="29" x="-787.86237" y="-534.6069" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Joseph_Besse">
+            Joseph Besse
+        </text>
+        <text font-size="66" x="708.9605" y="440.25003" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_James_Nayler">
+            James Nayler
+        </text>
+        <text font-size="24" x="963.8657" y="17.422997" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Elizabeth_Hooten">
+            Elizabeth Hooten
+        </text>
+        <text font-size="75" x="667.41565" y="-279.57996" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_George_Whitehead">
+            George Whitehead
+        </text>
+        <text font-size="24" x="731.7675" y="-447.7251" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Whitehead">
+            John Whitehead
+        </text>
+        <text font-size="24" x="1170.9105" y="365.53873" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Crouch">
+            William Crouch
+        </text>
+        <text font-size="50" x="295.6626" y="-556.13715" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Benjamin_Furly">
+            Benjamin Furly
+        </text>
+        <text font-size="24" x="990.0123" y="-710.3701" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Silvanus_Bevan">
+            Silvanus Bevan
+        </text>
+        <text font-size="24" x="734.88025" y="721.9805" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Robert_Rich">
+            Robert Rich
+        </text>
+        <text font-size="24" x="-2528.364" y="-131.28482" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Whiting">
+            John Whiting
+        </text>
+        <text font-size="24" x="-2562.0813" y="-181.51106" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Christopher_Taylor">
+            Christopher Taylor
+        </text>
+        <text font-size="24" x="446.896" y="-131.57594" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Lawson">
+            Thomas Lawson
+        </text>
+        <text font-size="27" x="827.95496" y="441.2074" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Richard_Farnworth">
+            Richard Farnworth
+        </text>
+        <text font-size="24" x="941.6355" y="-73.56415" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Coddington">
+            William Coddington
+        </text>
+        <text font-size="24" x="-2520.6235" y="-225.86212" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Taylor">
+            Thomas Taylor
+        </text>
+        <text font-size="24" x="-1601.5569" y="1320.0415" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Richard_Vickris">
+            Richard Vickris
+        </text>
+        <text font-size="35" x="303.19034" y="-923.8675" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Robert_Barclay">
+            Robert Barclay
+        </text>
+        <text font-size="24" x="-241.62198" y="-878.6523" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jane_Sowle">
+            Jane Sowle
+        </text>
+        <text font-size="29" x="-160.00146" y="-759.92914" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tace_Sowle">
+            Tace Sowle
+        </text>
+        <text font-size="24" x="984.33514" y="-113.58635" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Leonard_Fell">
+            Leonard Fell
+        </text>
+        <text font-size="72" x="391.0966" y="195.50208" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Margaret_Fell">
+            Margaret Fell
+        </text>
+        <text font-size="24" x="-1632.002" y="1358.5552" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_George_Bishop">
+            George Bishop
+        </text>
+        <text font-size="35" x="82.901054" y="558.8966" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Elizabeth_Leavens">
+            Elizabeth Leavens
+        </text>
+        <text font-size="35" x="200.5391" y="-2.193429" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Curtis">
+            Thomas Curtis
+        </text>
+        <text font-size="24" x="255.91193" y="-97.126755" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alice_Curwen">
+            Alice Curwen
+        </text>
+        <text font-size="40" x="564.3416" y="-393.60806" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alexander_Parker">
+            Alexander Parker
+        </text>
+        <text font-size="32" x="1021.5833" y="-313.68204" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Wilkinson">
+            John Wilkinson
+        </text>
+        <text font-size="24" x="461.90967" y="726.9044" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Aldam">
+            Thomas Aldam
+        </text>
+        <text font-size="29" x="264.77643" y="-1210.5825" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_David_Barclay_of_Ury">
+            David Barclay of Ury
+        </text>
+        <text font-size="24" x="-735.14154" y="2154.6829" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_David_Barclay">
+            David Barclay
+        </text>
+        <text font-size="29" x="666.31396" y="-743.4608" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sir_Charles_Wager">
+            Sir Charles Wager
+        </text>
+        <text font-size="42" x="377.41476" y="-653.7594" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_George_Keith">
+            George Keith
+        </text>
+        <text font-size="24" x="191.19421" y="-738.9612" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_James_Parnel">
+            James Parnel
+        </text>
+        <text font-size="24" x="-633.6544" y="-871.68" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Peter_Collinson">
+            Peter Collinson
+        </text>
+        <text font-size="24" x="320.17407" y="-756.39966" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Franciscus_Mercurius_van_Helmont">
+            Franciscus Mercurius van Helmont
+        </text>
+        <text font-size="31" x="232.20407" y="-381.75494" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Caton">
+            William Caton
+        </text>
+        <text font-size="30" x="1051.0615" y="351.90048" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Francis_Howgill">
+            Francis Howgill
+        </text>
+        <text font-size="24" x="762.79987" y="167.21748" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Richard_Hubberthorne">
+            Richard Hubberthorne
+        </text>
+        <text font-size="24" x="161.04143" y="-453.75476" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Ames">
+            William Ames
+        </text>
+        <text font-size="24" x="578.0079" y="-149.80293" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Rogers">
+            William Rogers
+        </text>
+        <text font-size="24" x="-225.96986" y="-527.2548" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Isaac_Norris">
+            Isaac Norris
+        </text>
+        <text font-size="26" x="-271.3689" y="1.2528949" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anthony_Sharp">
+            Anthony Sharp
+        </text>
+        <text font-size="24" x="1187.4165" y="686.63226" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mary_Fisher">
+            Mary Fisher
+        </text>
+        <text font-size="24" x="409.73328" y="-823.40515" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Anne_Conway_Viscountess_Conway_and_Killultagh">
+            Anne Conway Viscountess Conway and Killultagh
+        </text>
+        <text font-size="24" x="94.7924" y="-247.08647" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Samuel_Fisher">
+            Samuel Fisher
+        </text>
+        <text font-size="29" x="807.1026" y="-628.7066" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Francis_Bugg">
+            Francis Bugg
+        </text>
+        <text font-size="24" x="-2087.4417" y="127.66436" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sarah_Gibbons">
+            Sarah Gibbons
+        </text>
+        <text font-size="24" x="679.5666" y="726.5302" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Tomlinson">
+            William Tomlinson
+        </text>
+        <text font-size="24" x="-2170.532" y="557.0273" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Humphrey_Norton">
+            Humphrey Norton
+        </text>
+        <text font-size="24" x="-163.23177" y="857.1769" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Gibson">
+            William Gibson
+        </text>
+        <text font-size="24" x="-1147.2655" y="1879.2611" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gideon_Wanton">
+            Gideon Wanton
+        </text>
+        <text font-size="24" x="-1158.956" y="1925.8268" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Wanton">
+            John Wanton
+        </text>
+        <text font-size="24" x="-1874.2666" y="828.5002" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Grace_Chamber">
+            Grace Chamber
+        </text>
+        <text font-size="24" x="1229.322" y="648.6617" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mary_Prince">
+            Mary Prince
+        </text>
+        <text font-size="24" x="-665.43054" y="-825.6983" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Bartram">
+            John Bartram
+        </text>
+        <text font-size="24" x="-255.0246" y="-477.25977" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Edward_Haistwell">
+            Edward Haistwell
+        </text>
+        <text font-size="24" x="-361.16498" y="-181.21022" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_ap_John">
+            John ap John
+        </text>
+        <text font-size="24" x="-2198.5085" y="594.9775" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Rous">
+            John Rous
+        </text>
+        <text font-size="30" x="541.6596" y="573.2589" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anthony_Pearson">
+            Anthony Pearson
+        </text>
+        <text font-size="24" x="1047.1069" y="-406.37573" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Solomon_Eccles">
+            Solomon Eccles
+        </text>
+        <text font-size="36" x="-220.34264" y="-211.04166" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Burnyeat">
+            John Burnyeat
+        </text>
+        <text font-size="30" x="988.7574" y="248.69208" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Edward_Burrough">
+            Edward Burrough
+        </text>
+        <text font-size="31" x="351.47958" y="-97.665245" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rebecca_Travers">
+            Rebecca Travers
+        </text>
+        <text font-size="25" x="-349.1466" y="-62.205353" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Edmundson">
+            William Edmundson
+        </text>
+        <text font-size="24" x="-1994.848" y="1185.6165" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sarah_Cheevers">
+            Sarah Cheevers
+        </text>
+        <text font-size="24" x="1586.8218" y="-103.29717" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Edward_Pyott">
+            Edward Pyott
+        </text>
+        <text font-size="29" x="901.98285" y="-588.96246" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Daniel_Quare">
+            Daniel Quare
+        </text>
+        <text font-size="24" x="-49.394535" y="1.1711221" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Penington">
+            John Penington
+        </text>
+        <text font-size="34" x="82.12446" y="-71.65051" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mary_Penington">
+            Mary Penington
+        </text>
+        <text font-size="25" x="1387.059" y="-210.10219" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Charles_Marshall">
+            Charles Marshall
+        </text>
+        <text font-size="24" x="-1964.3025" y="-1212.8062" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Humphrey_Woolrich">
+            Humphrey Woolrich
+        </text>
+        <text font-size="120" x="-60.094276" y="-416.25787" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Penn">
+            William Penn
+        </text>
+        <text font-size="24" x="-1941.6844" y="-1255.3782" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mary_Pennyman">
+            Mary Pennyman
+        </text>
+        <text font-size="24" x="-2089.4692" y="176.87459" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dorothy_Waugh">
+            Dorothy Waugh
+        </text>
+        <text font-size="24" x="-366.29114" y="-638.57404" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_David_Lloyd">
+            David Lloyd
+        </text>
+        <text font-size="24" x="704.68463" y="-886.3163" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lewis_Morris">
+            Lewis Morris
+        </text>
+        <text font-size="24" x="922.96234" y="593.5017" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Martha_Simmonds">
+            Martha Simmonds
+        </text>
+        <text font-size="36" x="875.05634" y="-277.69846" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Story">
+            John Story
+        </text>
+        <text font-size="24" x="-243.97766" y="-416.6327" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Story">
+            Thomas Story
+        </text>
+        <text font-size="42" x="560.3582" y="37.44467" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Thomas_Ellwood">
+            Thomas Ellwood
+        </text>
+        <text font-size="24" x="69.8393" y="95.89523" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Simpson">
+            William Simpson
+        </text>
+        <text font-size="24" x="-896.18036" y="-549.7274" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Samuel_Bownas">
+            Samuel Bownas
+        </text>
+        <text font-size="35" x="1050.1785" y="478.40137" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Perrot">
+            John Perrot
+        </text>
+        <text font-size="24" x="846.1375" y="656.44916" fill="#050503"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hannah_Stranger">
+            Hannah Stranger
+        </text>
+    </g>
+</svg>
